@@ -40,7 +40,7 @@
   align-items: center;
 }
 
-.vitor-guedes {
+.talhanajeeb {
   display: none;
 }
 
@@ -70,10 +70,11 @@
     font-size: 100%;
   }
 
-  .vitor-guedes {
+  .talhanajeeb {
     display: flex;
     height: 15rem;
     position: relative;
+    border-radius: 50%;
   }
 }
 
@@ -82,7 +83,7 @@
     font-size: 140%;
   }
 
-  .vitor-guedes {
+  .talhanajeeb {
     display: flex;
     height: 25rem;
     border-radius: 50%;
