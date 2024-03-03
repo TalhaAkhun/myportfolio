@@ -2,10 +2,12 @@
   background-image: linear-gradient(to top, black, transparent 10%), url(../../assets/images/backgroundMobile2.jpg);
   background-size: cover;
   background-position: center center;
-  color: white;
+  color: rgb(36, 20, 156);
   display: flex;
   flex-wrap: wrap;
   animation: fadeDark 0.25s ease-in-out;
+  background-color: #17032b;
+  z-index: 99;
 }
 
 /* Text information */
@@ -34,7 +36,7 @@
 }
 
 .headline-information p:nth-child(2) {
-  color: var(--color-1);
+  color: var(--color-2);
   font-size: 2.3rem;
   font-weight: 700;
   padding-top: 0.5rem;
@@ -51,7 +53,7 @@
 }
 
 .headline-information p:nth-child(4) {
-  color: var(--color-7);
+  color: var(--color-2);
   font-weight: 300;
 }
 
@@ -90,7 +92,7 @@
   left: 0;
   width: 100%;
   height: 100vh;
-  background-color: rgba(255, 0, 0, 0.7);
+  background-color: rgba(36, 20, 137, 0.7);
   z-index: 5000;
   display: flex;
   flex-direction: column;
@@ -104,7 +106,7 @@
 
 .contact-button {
   border: 1px solid #6f23ff;
-  background-image: linear-gradient(#6f23ff74, #7023ff74, #ab8ce674);  width: fit-content;
+  background-image: linear-gradient(#21128074, #32097e74, rgba(31, 27, 95));  width: fit-content;
   width: 10rem;
   padding: 0.75rem 1rem;
   text-align: center;
@@ -116,7 +118,7 @@
 
 .contact-button a {
   text-decoration: none;
-  color: white;
+  color: rgb(9, 4, 71);
   display: flex;
   gap: 0.5rem;
 }
