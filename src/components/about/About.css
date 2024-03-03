@@ -85,5 +85,6 @@
   .vitor-guedes {
     display: flex;
     height: 25rem;
+    border-radius: 50%;
   }
 }
