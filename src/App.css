@@ -10,13 +10,13 @@
   scroll-snap-type: y mandatory;
   
   /* colors */
-  --color-1: #ebe3d9;
+  --color-1: #2c1902;
   --color-2: #6392f0;
-  --color-3: #7e85d5;
+  --color-3: #080c38;
   --color-4: #454998;
-  --color-5: #05041f;
+  --color-5: #03021f;
   --color-6: #03020b;
-  --color-7: #acafc2;
+  --color-7: #031168;
 
   /* colors */
   --box-shadow-1: 3px 3px 10px rgba(0, 0, 0, 0.4);
