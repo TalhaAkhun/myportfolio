@@ -29,19 +29,18 @@ const Headline = () => {
 
         <div onClick={toggleClass} className={isWrapperActive ? 'contact-wrapper on' : 'contact-wrapper'}>
           <div className="contact-button">
-            <a href="https://www.linkedin.com/in/najeeb-akhun/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/talha-akhun3" target="_blank" rel="noreferrer">
             <FaLinkedin />
             Linkedin
             </a>
           </div>
           <div className="contact-button">
-            <a href="mailto:najeebakhun@gmail.com" target="_blank" rel="noreferrer">
+            <a href="mailto:.com" target="_blank" rel="noreferrer">
             <FaEnvelope />
             Email
             </a>
           </div>
           <div className="contact-button">
-          <a href="https://medium.com/@najeebakhun" target="_blank" rel="noreferrer"><FaMedium />Articles</a>
           </div>
           <div className="contact-button">
             <a href="https://docs.google.com/document/d/1bDRU0JXUAFllRZHqLc2hLjNaBWVExwyV3cEisV2YnO0/edit" target="_blank" rel="noreferrer">

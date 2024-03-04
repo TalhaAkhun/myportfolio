@@ -20,16 +20,16 @@ const Testimonials = () => {
   const linkedinTestimonials = [
     {
       id: 1,
-      name: "Newton Hassan",
+      name: "Abdullah Najeeb",
       role: "Full Stack Developer",
       testimonial: "I had the pleasure to work with Abu Talha on a couple of projects and came to know him as a very hardworking person. His knowledge and skill sets were very helpful to finish the projects on time and I’ll be happy to work with him again.",
       image: newtonhassan
     },
     {
       id: 1,
-      name: "Mayito Ismail",
-      role: "Full Stack Developer",
-      testimonial: "Abu Talha is a great developer with impeccable commitment to projects he works on. He has an amazing work ethic, possesses excellent interpersonal skills which makes him very pleasant to work. In the projects I have collaborated in with him, he was a great team player, provided great reviews as well as serving as an inspiration for me to be better. Getting him in your team will guarantee you excellence. I hope to collaborate with him on future projects.",
+      name: "Abu Talha",
+      role: "Full-Stack Developer",
+      testimonial: "Talha is a great developer with impeccable commitment to projects he works on. He has an amazing work ethic, possesses excellent interpersonal skills which makes him very pleasant to work. In the projects I have collaborated in with him, he was a great team player, provided great reviews as well as serving as an inspiration for me to be better. Getting him in your team will guarantee you excellence. I hope to collaborate with him on future projects.",
       image: mayitoismail
     },
     {

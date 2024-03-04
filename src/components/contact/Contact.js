@@ -27,9 +27,8 @@ const Contact = () => {
         <footer>
           <span><small>© All rights reserved</small></span>
           <ul>
-            <li><a href="https://medium.com/@najeebakhun" target="_blank" rel="noreferrer"><FaMedium /></a></li>
-            <li><a href="https://github.com/AbuTalha3" target="_blank" rel="noreferrer"><FaGithub /></a></li>
-            <li><a href="https://www.linkedin.com/in/najeeb-akhun/" target="_blank" rel="noreferrer"><FaLinkedin /></a></li>
+            <li><a href="https://github.com/TalhaAkhun" target="_blank" rel="noreferrer"><FaGithub /></a></li>
+            <li><a href="https://www.linkedin.com/in/talha-akhun3" target="_blank" rel="noreferrer"><FaLinkedin /></a></li>
           </ul>
         </footer>
       </section>
