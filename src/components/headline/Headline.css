@@ -118,7 +118,7 @@
 
 .contact-button a {
   text-decoration: none;
-  color: rgb(9, 4, 71);
+  color: rgb(255, 255, 255);
   display: flex;
   gap: 0.5rem;
 }
