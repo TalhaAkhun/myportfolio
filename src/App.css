@@ -10,13 +10,13 @@
   scroll-snap-type: y mandatory;
   
   /* colors */
-  --color-1: #bd7812;
+  --color-1: #ebe3d9;
   --color-2: #6392f0;
-  --color-3: #ffffff;
+  --color-3: #7e85d5;
   --color-4: #454998;
-  --color-5: #fdfdff;
-  --color-6: #ffffff;
-  --color-7: #ffffff;
+  --color-5: #05041f;
+  --color-6: #03020b;
+  --color-7: #acafc2;
 
   /* colors */
   --box-shadow-1: 3px 3px 10px rgba(0, 0, 0, 0.4);
@@ -65,7 +65,7 @@ section {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background-image: linear-gradient(#ffffff, #7023ff, #f5f5f5);
+  background-image: linear-gradient(#2f0978, #7023ff, #2f0978);
   border-radius: 10px;
 }
 
@@ -81,6 +81,9 @@ section {
 
 .loading-gif {
   width: 20rem;
+  border-radius: 50%;
+  width: 550px;
+  height: 550px;
 }
 
 @media (min-width: 480px) {

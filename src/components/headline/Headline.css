@@ -2,12 +2,10 @@
   background-image: linear-gradient(to top, black, transparent 10%), url(../../assets/images/backgroundMobile2.jpg);
   background-size: cover;
   background-position: center center;
-  color: rgb(36, 20, 156);
+  color: white;
   display: flex;
   flex-wrap: wrap;
   animation: fadeDark 0.25s ease-in-out;
-  background-color: #17032b;
-  z-index: 99;
 }
 
 /* Text information */
@@ -27,7 +25,8 @@
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  font: rgb(2, 2, 86);
+  background-color: #0f0621;
+  padding: 25px;
 }
 
 .headline-information p:nth-child(1) {
@@ -36,7 +35,7 @@
 }
 
 .headline-information p:nth-child(2) {
-  color: var(--color-2);
+  color: var(--color-1);
   font-size: 2.3rem;
   font-weight: 700;
   padding-top: 0.5rem;
@@ -53,7 +52,7 @@
 }
 
 .headline-information p:nth-child(4) {
-  color: var(--color-2);
+  color: var(--color-7);
   font-weight: 300;
 }
 
@@ -66,10 +65,10 @@
 /* Contact me button */
 
 .headline-information button {
-  border: 1px solid rgb(47, 199, 26);
+  border: 1px solid goldenrod;
   background-color: transparent;
   padding: 0.5rem 1rem;
-  color: rgb(29, 8, 119);
+  color: goldenrod;
   cursor: pointer;
   outline: none;
   border-radius: 15px;
@@ -79,7 +78,7 @@
 }
 
 .headline-information button:hover {
-  background-color: rgba(18, 151, 18, 0.3);
+  background-color: rgba(218, 165, 32, 0.3);
 }
 
 .contact-wrapper {
@@ -92,7 +91,7 @@
   left: 0;
   width: 100%;
   height: 100vh;
-  background-color: rgba(36, 20, 137, 0.7);
+  background-color: rgba(255, 0, 0, 0.7);
   z-index: 5000;
   display: flex;
   flex-direction: column;
@@ -106,7 +105,7 @@
 
 .contact-button {
   border: 1px solid #6f23ff;
-  background-image: linear-gradient(#21128074, #32097e74, rgba(31, 27, 95));  width: fit-content;
+  background-image: linear-gradient(#6f23ff74, #7023ff74, #ab8ce674);  width: fit-content;
   width: 10rem;
   padding: 0.75rem 1rem;
   text-align: center;
@@ -118,7 +117,7 @@
 
 .contact-button a {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: white;
   display: flex;
   gap: 0.5rem;
 }
@@ -148,7 +147,6 @@
 @media (min-width: 768px) {
   .headline-texts {
     gap: 0.75rem;
-    font: rgb(2, 2, 86);
   }
 
   .headline-section-container {

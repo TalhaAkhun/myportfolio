@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { FaPhone, FaEnvelope } from "react-icons/fa";
-import myLogo from '../../assets/images/vitorLogo2.png'
+import myLogo from '../../assets/images/najeeblogo.png'
 import './Navigation.css';
 
 const Navigation = () => {
@@ -16,11 +16,11 @@ const Navigation = () => {
           <a href="#headline"><img className="logo" src={myLogo} alt="logo" /></a>
           <div className="contact-info">
             <FaPhone />
-            <a href="https://api.whatsapp.com/send?phone=03405678903" target="_blank" rel="noreferrer">+03405678903</a>
+            <a href="https://api.whatsapp.com/send?phone=923355801403" target="_blank" rel="noreferrer">+923355801403</a>
           </div>
           <div className="contact-info">
             <FaEnvelope />
-            <a href="mailto:TalhaNajeebAkhun3@gmail.com" target="_blank" rel="noreferrer">TalhaNajeebAkhun3@gmail.com</a>
+            <a href="mailto:vgm_rox@hotmail.com" target="_blank" rel="noreferrer">najeebakhun@gmail.com</a>
           </div>
         </div>
 

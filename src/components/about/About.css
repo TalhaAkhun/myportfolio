@@ -25,7 +25,7 @@
 }
 
 .about-title p {
-  color: goldenrod;
+  color: rgb(9, 177, 23);
 }
 
 .about-information a {
@@ -40,7 +40,7 @@
   align-items: center;
 }
 
-.talhanajeeb {
+.najeeb-akhun {
   display: none;
 }
 
@@ -66,11 +66,16 @@
     width: 50%;
   }
 
+  span {
+    font-weight: bold;
+    color: blue;
+  } 
+
   .about-information ul li {
     font-size: 100%;
   }
 
-  .talhanajeeb {
+  .najeeb-akhun {
     display: flex;
     height: 15rem;
     position: relative;
@@ -83,9 +88,8 @@
     font-size: 140%;
   }
 
-  .talhanajeeb {
+  .najeeb-akhun {
     display: flex;
     height: 25rem;
-    border-radius: 50%;
   }
 }
