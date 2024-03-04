@@ -66,10 +66,10 @@
 /* Contact me button */
 
 .headline-information button {
-  border: 1px solid goldenrod;
+  border: 1px solid rgb(47, 199, 26);
   background-color: transparent;
   padding: 0.5rem 1rem;
-  color: goldenrod;
+  color: rgb(47, 199, 26);
   cursor: pointer;
   outline: none;
   border-radius: 15px;
