@@ -79,7 +79,8 @@
 }
 
 .headline-information button:hover {
-  background-color: rgba(47, 199, 26);
+  background-color: rgba(18, 151, 18, 0.3);
+}
 
 .contact-wrapper {
   display: none;
