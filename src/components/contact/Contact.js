@@ -16,7 +16,7 @@ const Contact = () => {
             <a class="email-link" href="mailto:TalhaNajeebAkhun3@gmail.com" target="_blank" rel="noreferrer">Say Hello</a>
             <div className="contact-info-phone">
             <FaPhone />
-            <a href="https://api.whatsapp.com/send?phone=04856154711" className="contact-info-phone" target="_blank" rel="noreferrer"> +04856154711</a>
+            <a href="https://api.whatsapp.com/send?phone=34537584624" className="contact-info-phone" target="_blank" rel="noreferrer"> +34537584624</a>
           </div>
           </div>
           <div className="relative" data-aos="fade-left">
