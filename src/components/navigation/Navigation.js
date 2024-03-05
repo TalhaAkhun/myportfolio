@@ -16,7 +16,7 @@ const Navigation = () => {
           <a href="#headline"><img className="logo" src={myLogo} alt="logo" /></a>
           <div className="contact-info">
             <FaPhone />
-            <a href="https://api.whatsapp.com/send?phone=0232123123" target="_blank" rel="noreferrer">+34537584624</a>
+            <a href="https://api.whatsapp.com/send?phone=02321231239" target="_blank" rel="noreferrer">+34537584624</a>
           </div>
           <div className="contact-info">
             <FaEnvelope />

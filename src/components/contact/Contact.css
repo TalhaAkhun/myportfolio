@@ -165,8 +165,3 @@ footer ul li:hover {
     justify-content: flex-end;
   }
 }
-
-.contact-info-phone {
-  font-size: larger;
-  color: rgb(6, 109, 23);
-}

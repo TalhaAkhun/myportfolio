@@ -21,7 +21,7 @@ const Testimonials = () => {
     {
       id: 1,
       name: "Abdullah Najeeb",
-      role: "Full Stack Developer",
+      role: "Web Developer",
       testimonial: "I had the pleasure to work with Abu Talha on a couple of projects and came to know him as a very hardworking person. His knowledge and skill sets were very helpful to finish the projects on time and I’ll be happy to work with him again.",
       image: newtonhassan
     },

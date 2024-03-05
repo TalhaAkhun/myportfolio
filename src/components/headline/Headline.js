@@ -33,7 +33,7 @@ const Headline = () => {
             </a>
           </div>
           <div className="contact-button">
-            <a href="mailto:.com" target="_blank" rel="noreferrer">
+            <a href="mailto:TalhaNajeebAkhun@gmail.com" target="_blank" rel="noreferrer">
             <FaEnvelope />
             Email
             </a>
