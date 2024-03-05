@@ -22,15 +22,15 @@ https://TalhaNajeebAkhun.netlify.app/
 
 ## Author1
 
-👤 **Vitor Guedes Madeira** 🧑🏻‍💻
-- GitHub: [@vitorguedesmadeira](https://github.com/VitorGuedesMadeira)
-- Twitter: [@CDahguedes](https://twitter.com/CDahguedes)
-- LinkedIn: [Vitor Guedes](https://www.linkedin.com/in/vitor-guedes-madeira/)
+👤 **Talha Najeeb Akhun** 🧑🏻‍💻
+- GitHub: [@talhaN](https://github.com/TalhaAkhun) 
+- Twitter: [@](https://twitter.com/)
+- LinkedIn: [TalhaNajeeb](https://www.linkedin.com/in/talha-akhun3/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/VitorGuedesMadeira/Portfolio-Template-2/issues).
+
 
 ## Show your support
 
