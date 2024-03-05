@@ -1,11 +1,11 @@
-![applicationshowcase](https://github.com/TalhaAkhun/myportfolio/assets/161429125/18af82b6-dea4-45ae-b926-50c9b2fc1587)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # Personal-Portfolio 
 
 This is my personal Portfolio where I showcase my main projects. You can also check all my contact information. It was mainly built using React and a few other frameworks.
 
 # Quick view
-<a href="applicationshowcase.png"></a>
+![applicationshowcase](https://github.com/TalhaAkhun/myportfolio/assets/161429125/18af82b6-dea4-45ae-b926-50c9b2fc1587)
 
 # Live Demo Version
 
