@@ -14,7 +14,7 @@ https://TalhaNajeebAkhun.netlify.app/
 ## Getting Started
 
 - Clone this repository by running `https://github.com/TalhaNajeebAkhun/myportfolio.git` in your CLI.
-- Type `cd Portfolio-Template-2`
+- Type `cd MYPortfolio`
 - Type `code .`
 - Run `npm install`
 - Run `npm start`
